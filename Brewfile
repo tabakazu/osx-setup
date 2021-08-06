@@ -5,6 +5,7 @@ brew "jq"
 brew "peco"
 brew "tmux"
 brew "tree"
+brew "git-secrets"
 
 cask "docker"
 cask "google-chrome"
