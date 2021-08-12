@@ -3,6 +3,7 @@
 brew "fish"
 brew "jq"
 brew "peco"
+brew "fzf"
 brew "tmux"
 brew "tree"
 brew "git-secrets"
