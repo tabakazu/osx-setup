@@ -1,12 +1,15 @@
 # https://github.com/Homebrew/homebrew-bundle
 
+brew "ccat"
 brew "fish"
+brew "fzf"
+brew "git-secrets"
+brew "htop"
 brew "jq"
 brew "peco"
-brew "fzf"
+brew "tig"
 brew "tmux"
 brew "tree"
-brew "git-secrets"
 
 cask "docker"
 cask "google-chrome"
